@@ -1,0 +1,13 @@
+
+Saved/
+Intermediate/
+
+Content/Developers/
+Content/Collections/
+
+.vs/
+
+
+/*.sln
+/*.db
+/*.opendb
