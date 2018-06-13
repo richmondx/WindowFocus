@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WindowsWindowFocus",
+	"Description": "Get Windows Window Focus",
+	"Category": "Windows",
+	"CreatedBy": "PaperSloth",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WindowsWindowFocus",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
