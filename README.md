@@ -7,5 +7,5 @@ SampleProjectではFocusが外れた場合にPause画面が出るようにして
 
 ## How to Use
 Plugins以下を使用したいプロジェクトのディレクトリにコピーしてください。
-WindowsWindoPluginが有効になっていることを確認したら
+WindowsWindowPluginが有効になっていることを確認したら
 IsFocusWindowノードでWindowのFocus状態を取得できます。
